@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT24102279Lab10Q1 {
+public class IT24102279Lab10Q1B {
 
     public static void validateMark(int mark) {
         assert mark >= 0 && mark <= 100 : "Invalid Mark";
